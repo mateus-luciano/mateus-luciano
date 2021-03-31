@@ -29,6 +29,7 @@
     <img
       align="center"
       height="165"
+      width="200"
       src="https://github-readme-stats.vercel.app/api?username=teeusdm&count_private=true&show_icons=true&custom_title=Mateus's%20Github%20Stats&hide=issues&theme=chartreuse-dark"
     />
   </a>
@@ -37,6 +38,7 @@
     <img
       align="center"
       height="165"
+      width="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeusdm&&layout=compact&theme=chartreuse-dark"
     />
   </a>
