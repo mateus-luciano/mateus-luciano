@@ -26,7 +26,6 @@
 #### View my stats on Github
 
 <div style="display:flex; flex-direction-row;">
-<p align="center">
   <a href="https://github.com/teeusdm/github-readme-stats">
     <img
       height="160"
@@ -40,5 +39,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeusdm&&layout=compact&theme=chartreuse-dark"
     />
   </a>
-</p>
 </div>
