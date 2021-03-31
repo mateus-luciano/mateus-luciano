@@ -1,5 +1,6 @@
-### Hi, I'am Mateus 👋
+### Hi, I'm Mateus
 
+<p>I'm a software development student</p>
 
 
 ### Connect with me: 
