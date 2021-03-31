@@ -24,6 +24,7 @@
 
 
 #### View my stats on Github
+<div style="display:flex; flex-direction-row;">
 <p align="center">
   <a href="https://github.com/teeusdm/github-readme-stats">
     <img
@@ -41,3 +42,4 @@
     />
   </a>
 </p>
+</div>
