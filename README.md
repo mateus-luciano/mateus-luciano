@@ -25,7 +25,7 @@
 
 #### View my stats on Github
 
-<div style="display:flex; flex-direction-row;">
+<div style="display:flex; align-item:center; justify-content:space-between;">
   <a href="https://github.com/teeusdm/github-readme-stats">
     <img
       height="160"
