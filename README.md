@@ -24,11 +24,11 @@
 
 
 #### View my stats on Github
+
 <div style="display:flex; flex-direction-row;">
 <p align="center">
   <a href="https://github.com/teeusdm/github-readme-stats">
     <img
-      align="center"
       height="160"
       src="https://github-readme-stats.vercel.app/api?username=teeusdm&count_private=true&show_icons=true&custom_title=Mateus's%20Github%20Stats&hide=issues&theme=chartreuse-dark"
     />
@@ -36,7 +36,6 @@
   
   <a href="https://github.com/teeusdm/github-readme-stats">
     <img
-      align="center"
       height="160"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeusdm&&layout=compact&theme=chartreuse-dark"
     />
