@@ -4,6 +4,7 @@
 
 ### Connect with me: 
 
+
 <a href="https://www.linkedin.com/in/mateus-luciano-850ba61a4" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Linkedin icon" align="center" width="40" height="30" style="max-width:100%"> 
 <a/>
@@ -12,16 +13,48 @@
 <a/>
   
 ### My skills 
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="40" height="30" style="max-width:100%"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="JavaScript icon" width="40" height="30" style="max-width:100%"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="JavaScript icon" width="40" height="30" style="max-width:100%"> 
-  
-<!-- ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=teeusdm&a&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teeusdm&layout=compact&theme=chartreuse-dark)](https://github.com/teeusdm/github-readme-stats) -->
-
-
-
+<div style="display:flex; flex-direction:row; flex-wrap:wrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+        alt="JavaScript icon" 
+        width="40" 
+        height="30" 
+        style="max-width:100%"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+        alt="React icon" 
+        width="40" 
+        height="30" 
+        style="max-width:100%"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
+        alt="SASS icon" 
+        width="40" 
+        height="30" 
+        style="max-width:100%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+        alt="NodeJS icon" 
+        width="40" 
+        height="30" 
+        style="max-width:100%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+        alt="HTML icon" 
+        width="40" 
+        height="30" 
+        style="max-width:100%"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" 
+        alt="CSS icon" 
+        width="40" 
+        height="30" 
+        style="max-width:100%"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
+        alt="PostgreSQL icon" 
+        width="40" 
+        height="30" 
+        style="max-width:100%"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
+        alt="Git icon" 
+        width="40" 
+        height="30" 
+        style="max-width:100%"> 
+</div>
 
 #### View my stats on Github
 
