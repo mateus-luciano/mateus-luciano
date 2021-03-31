@@ -25,19 +25,16 @@
 
 #### View my stats on Github
 
-<div style="display:flex; align-item:center; justify-content:space-between;">
+<div style="display:flex;">
   <a href="https://github.com/teeusdm/github-readme-stats">
     <img
       height="160" 
-      width="50%"
       src="https://github-readme-stats.vercel.app/api?username=teeusdm&count_private=true&show_icons=true&custom_title=Mateus's%20Github%20Stats&hide=issues&theme=chartreuse-dark"
     />
   </a>
-  
   <a href="https://github.com/teeusdm/github-readme-stats">
     <img
       height="160"
-       width="50%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeusdm&&layout=compact&theme=chartreuse-dark"
     />
   </a>
