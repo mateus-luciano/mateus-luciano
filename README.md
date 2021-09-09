@@ -60,16 +60,16 @@
 #### View my stats on Github
 
 <div style="display:flex;">
-  <a href="https://github.com/teeusdm/github-readme-stats">
+  <a href="https://github.com/mateus-luciano/github-readme-stats">
     <img
       height="156" 
-      src="https://github-readme-stats.vercel.app/api?username=teeusdm&count_private=true&show_icons=true&custom_title=Mateus's%20Github%20Stats&hide=issues&theme=chartreuse-dark"
+      src="https://github-readme-stats.vercel.app/api?username=mateus-luciano&count_private=true&show_icons=true&custom_title=Mateus's%20Github%20Stats&hide=issues&theme=chartreuse-dark"
     />
   </a>
-  <a href="https://github.com/teeusdm/github-readme-stats">
+  <a href="https://github.com/mateus-luciano/github-readme-stats">
     <img
       height="156"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeusdm&&layout=compact&theme=chartreuse-dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-luciano&&layout=compact&theme=chartreuse-dark"
     />
   </a>
 </div>
