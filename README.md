@@ -1,4 +1,4 @@
-### Hi, I'm Mateus
+<!-- ### Hi, I'm Mateus
 
 <p>I'm a software development student</p>
 
@@ -55,7 +55,7 @@
         width="40" 
         height="30" 
         style="max-width:100%"> 
-</div>
+</div> -->
 
 #### View my stats on Github
 
